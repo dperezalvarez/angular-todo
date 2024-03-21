@@ -1,2 +1,3 @@
-# angular-todo
-Todo list
+# AngularTodo
+
+Modificar la aplicación para que compile y funcione correctamente
